@@ -1,4 +1,4 @@
-module github.com/alvinlin/faillint
+module github.com/alvinlin123/faillint
 
 go 1.16
 
